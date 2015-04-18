@@ -1,0 +1,7 @@
+#git ignore file 
+
+# 忽略主文件夹下的.txt文件
+*.txt
+
+# 忽略docx的临时文件
+doc/~*.docx
