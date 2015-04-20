@@ -5,3 +5,6 @@
 
 # 忽略docx的临时文件
 doc/~*.docx
+
+# 忽略tmp
+*.tmp
