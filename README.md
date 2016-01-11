@@ -1,2 +1,3 @@
-# git
-this is just a git induction
+# GitDoc
+git leaner
+This is just a git learning doc
